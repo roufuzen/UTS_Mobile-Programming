@@ -35,15 +35,17 @@ Lihat demo aplikasi di sini: [Video Preview Seminar Hub 2026](https://drive.goog
 - **Registration Form**: Formulir pendaftaran lengkap dengan pilihan seminar dinamis.
 - **Result Screen**: Ringkasan data pendaftaran setelah berhasil disubmit.
 
-## ⚙️ Cara Instalasi
+## ⚙️ Cara Instalasi (Menggunakan ZIP)
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/FormLogRegiss.git
-   ```
-2. Buka project di **Android Studio**.
-3. Pastikan SDK Android terinstal (Level 34 recommended).
-4. Klik **Run** atau tekan `Shift + F10` untuk menjalankan di emulator/perangkat fisik.
+Jika Anda mendapatkan proyek ini dalam format file ZIP:
+
+1. **Ekstrak File**: Klik kanan pada file `FormLogRegiss.zip` dan pilih **Extract Here** atau **Extract to Folder**.
+2. **Buka di Android Studio**:
+   - Buka Android Studio.
+   - Pilih **File > Open**.
+   - Arahkan ke folder hasil ekstrak tadi dan klik **OK**.
+3. **Tunggu Sync**: Biarkan proses **Gradle Sync** selesai (pastikan koneksi internet aktif untuk mendownload library yang diperlukan).
+4. **Jalankan Aplikasi**: Klik tombol **Run** (segitiga hijau) atau tekan `Shift + F10`.
 
 ---
 Developed by **ROUFUZEN** 🚀
